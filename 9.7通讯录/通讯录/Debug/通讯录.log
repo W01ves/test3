@@ -1,0 +1,6 @@
+﻿  contact.c
+e:\project\2021.9\通讯录\通讯录\contact.c(21): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+e:\project\2021.9\通讯录\通讯录\contact.c(40): warning C4477: “printf”: 格式字符串“%-12s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int *”
+  test.c
+  正在生成代码...
+  通讯录.vcxproj -> E:\Project\2021.9\通讯录\Debug\通讯录.exe
