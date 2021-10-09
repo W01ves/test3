@@ -1,0 +1,3 @@
+﻿  test.c
+e:\project\2021.10\10.9链表\10.8链表\test.c(31): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“SListNode *”
+  10.8链表.vcxproj -> E:\Project\2021.10\10.9链表\Debug\10.8链表.exe
