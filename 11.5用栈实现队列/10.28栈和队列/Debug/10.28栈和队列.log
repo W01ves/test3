@@ -1,0 +1,10 @@
+﻿  Stack.c
+  test.c
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(107): warning C4133: “函数”: 从“MyQueue *”到“Stack *”的类型不兼容
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(108): warning C4133: “函数”: 从“MyQueue *”到“Stack *”的类型不兼容
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(109): warning C4133: “函数”: 从“MyQueue *”到“Stack *”的类型不兼容
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(114): warning C4133: “函数”: 从“MyQueue *”到“Stack *”的类型不兼容
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(115): warning C4133: “函数”: 从“MyQueue *”到“Stack *”的类型不兼容
+  正在生成代码...
+e:\project\2021.11\11.5用栈实现队列\10.28栈和队列\test.c(77): warning C4716: “myQueuePop”: 必须返回一个值
+  10.28栈和队列.vcxproj -> E:\Project\2021.11\11.5用栈实现队列\Debug\10.28栈和队列.exe
