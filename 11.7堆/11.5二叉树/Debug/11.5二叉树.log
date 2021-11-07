@@ -1,0 +1,4 @@
+﻿  test.c
+e:\project\2021.11\11.7堆\11.5二叉树\test.c(70): warning C4013: “time”未定义；假设外部返回 int
+e:\project\2021.11\11.7堆\11.5二叉树\test.c(71): warning C4018: “<”: 有符号/无符号不匹配
+  11.5二叉树.vcxproj -> E:\Project\2021.11\11.7堆\Debug\11.5二叉树.exe
