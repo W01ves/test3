@@ -1,0 +1,15 @@
+﻿  QListNode.c
+  test.c
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(39): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(40): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(41): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(42): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(43): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(68): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(68): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(69): warning C4047: “函数”:“QDataType”与“BinaryTreeNode *”的间接级别不同
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(69): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(73): warning C4133: “函数”: 从“BinaryTreeNode *”到“BTNode *”的类型不兼容
+e:\project\2021.11\11.19二叉树\11.13二叉树\test.c(74): warning C4133: “函数”: 从“BinaryTreeNode *”到“BTNode *”的类型不兼容
+  正在生成代码...
+  11.13二叉树.vcxproj -> E:\Project\2021.11\11.19二叉树\x64\Debug\11.13二叉树.exe

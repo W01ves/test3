@@ -1,0 +1,8 @@
+﻿  test.c
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(51): warning C4133: “=”: 从“BTNode *”到“BinaryTreeNode *”的类型不兼容
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(73): warning C4133: “函数”: 从“BinaryTreeNode **”到“TreeNode **”的类型不兼容
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(77): warning C4133: “函数”: 从“BinaryTreeNode **”到“TreeNode **”的类型不兼容
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(81): warning C4133: “函数”: 从“BinaryTreeNode **”到“TreeNode **”的类型不兼容
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(82): warning C4133: “函数”: 从“BinaryTreeNode **”到“TreeNode **”的类型不兼容
+e:\project\2021.11\11.18二叉树oj\11.13二叉树\test.c(92): warning C4133: “函数”: 从“BinaryTreeNode **”到“TreeNode **”的类型不兼容
+  11.13二叉树.vcxproj -> E:\Project\2021.11\11.18二叉树OJ\Debug\11.13二叉树.exe
