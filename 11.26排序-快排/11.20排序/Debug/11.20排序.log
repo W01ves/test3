@@ -1,0 +1,5 @@
+﻿  Sort.c
+  test.c
+e:\project\2021.11\11.26排序-快排\11.20排序\test.c(6): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  11.20排序.vcxproj -> E:\Project\2021.11\11.26排序-快排\Debug\11.20排序.exe
