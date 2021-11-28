@@ -1,0 +1,4 @@
+﻿  test.c
+e:\project\2021.11\11.27排序-归并\11.20排序\test.c(6): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\project\2021.11\11.27排序-归并\11.20排序\test.c(68): warning C4013: “QuickSort2”未定义；假设外部返回 int
+  11.20排序.vcxproj -> E:\Project\2021.11\11.27排序-归并\Debug\11.20排序.exe
