@@ -1,0 +1,5 @@
+﻿  Date.cpp
+  test.cpp
+  正在生成代码...
+e:\project\2022.1\1.19类和对象\1.15类和对象\date.cpp(138): warning C4172: 返回局部变量或临时变量的地址: ret
+  1.15类和对象.vcxproj -> E:\Project\2022.1\1.19类和对象\x64\Debug\1.15类和对象.exe
