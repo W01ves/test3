@@ -1,0 +1,3 @@
+﻿  test.cpp
+e:\project\2022.1\1.18类和对象\1.15类和对象\test.cpp(470): warning C4172: 返回局部变量或临时变量的地址: c
+  1.15类和对象.vcxproj -> E:\Project\2022.1\1.18类和对象\Debug\1.15类和对象.exe
